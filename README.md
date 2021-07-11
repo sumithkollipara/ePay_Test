@@ -1,6 +1,6 @@
 Hi,
 
-You can find ePay_Test solution in this repository which contains two projects as named below 
+You will find two projects in this repository(ePay_Test) as named below:
  - Denomination_Routine
  - Rest_Server
  
