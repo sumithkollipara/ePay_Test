@@ -8,7 +8,7 @@ Project execution process:
  - Open solution with Visual stuido IDE
     * Denomination_Routine is a console application
       - Please set as start up project
-      - Run the project and then follow the instructions in the console
+      - Run the project and then follow instructions in the console window
       - Eg. If you want to see the denominations of 50, please enter 50 EUR and you can see the permutations and combinations of denominations with payout amount
       - In case you like to check different amount after the above step please press "Y" so that you will be able to enter next desired payout amount.
     * Rest_Server is a Web API project
