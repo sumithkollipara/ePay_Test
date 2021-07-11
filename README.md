@@ -5,7 +5,7 @@ You will find two projects in this project ePay_Test repositiory as named below
  - Rest_Server
  
 Project execution process:
- - Open solution with Visual stuido IDE
+ - Open solution with Visual stuido IDE as administrator and rebuild solution
     * Denomination_Routine is a console application
       - Please set as start up project
       - Run the project and then follow the instructions in the console
